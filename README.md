@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Jackson Baker
-- 👀 I’m interested in artificial intelligence, computational intelligence, neuroscience, data science/analysis, and software engineering!
-- 🌱 I’m currently learning web development in hopes of creating my own website to show my experience, work experience, and skills. I'm also learning Python in hopes of mastering it for data science and future machine learning programming. I'll hopefully be posting projects I create here.
-- 💞️ I’m looking to collaborate on any projects and debug code. 
-- 📫 You can reach me via email at jacksonpb@yahoo.com
+# Jackson P. Baker
 
+I am a Computer Science graduate from the **University of Mississippi**, current IT professional, master's student at **Mississippi State University**, and a lifelong learner and enthusiast of computers, mathematics, and the vast domains of science. I'm currently learning how to use Github in my personal project management as well as a tool for my graduate coursework and storing it efficiently (my laptop storage is also small....) and programming in **Python, R, and Rust**. I'm currently working on personal projects in algorithmic security trading, blockchain development, natural language processing, web development, and a secret project for my girlfriend :). 
+
+*Welcome to my github!*
+
+---
